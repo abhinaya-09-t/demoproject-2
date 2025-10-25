@@ -1,0 +1,22 @@
+.child1 ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid;
+  background-color: pink;
+  height: 50px;
+}
+li{
+  text-decoration: none;
+  list-style: none;
+}
+.main{
+  background-color: whitesmoke;
+  border: 2px solid;
+  padding: 10px;
+}
+.child2{
+  border: 2px solid;
+  padding: 2%;
+  background-color: blanchedalmond;
+}
